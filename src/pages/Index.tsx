@@ -91,7 +91,7 @@ const Index = () => {
           <div className="flex items-center justify-center">
             <div 
               id="diploma"
-              className="relative w-full max-w-[800px] aspect-[1.414/1] bg-white shadow-2xl overflow-hidden"
+              className="relative w-full max-w-[600px] aspect-[1/1.414] bg-white shadow-2xl overflow-hidden"
               style={{
                 background: 'linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%)'
               }}
